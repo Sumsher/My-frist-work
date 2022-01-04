@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(241, 201, 149);
+}
+.login{
+    border:10px solid rosybrown;
+    border-radius: 5px;
+    display: block;
+    margin: 50px;
+    padding: auto;
+    position: absolute;
+}
+.contaner{
+    text-align: center;
+    background-color: salmon;
+    position: absolute;
+}
+h1{
+    text-align: center;
+}
